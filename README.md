@@ -58,6 +58,9 @@ Newest in this version:
 npm install express
 ```
 
+## Changelog
+If you want to see the new features of the latest XDT version, we have a changelog made just for that, which you can view [here](https://github.com/PixelDevelops/xdt-js/blob/main/CHANGELOG.md). We do not delete old versions. This changelog reports on everything that has not been added in the previous version, or was taken out of a previous version, and put back in.
+
 ## License (MIT)
 Copyright (c) 2022 pixelxd
 
