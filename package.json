@@ -1,0 +1,24 @@
+{
+  "name": "xdt",
+  "version": "1.0.0",
+  "description": "The best and easiest to use graph creator, for JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphing",
+    "graphs",
+    "graph",
+    "node.js",
+    "nodejs",
+    "node",
+    "js",
+    "javascript"
+  ],
+  "author": "PixelDevelops",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
